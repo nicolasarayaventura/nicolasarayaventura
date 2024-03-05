@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nicolasarayaventura
+- 👀 I’m interested in bioinformatics!
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on data analysis of PDB files 
+- 📫 How to reach me email!
+- 😄 Pronouns: he/him
